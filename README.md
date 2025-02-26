@@ -5,7 +5,7 @@ This repository contains the code and data for a Shiny app that visualizes dam d
 ## Files
 
 * `app.R`: The Shiny app code.
-* `data/NID_data.csv`: The dam data.
+* `data/NID_data.csv`: The NID data as of 2/26/2025
 
 ## How to Run
 
@@ -19,12 +19,8 @@ To run this app locally, you'll need R and RStudio installed. Follow these steps
 
 ## Deployment
 
-This app cannot be directly hosted on GitHub Pages because it requires a server-side R process. To deploy this app online, you can use services like:
-
-* [shinyapps.io](https://www.shinyapps.io/)
-* [Heroku](https://www.heroku.com/)
+This app cannot be directly hosted on GitHub Pages because it requires a server-side R process. Instead it can be accessed here:
 * [ShinyProxy](https://www.shinyproxy.io/)
 
 ## Contact
-
-[Your Name] - [Your Email]
+[Dan McGraw] - [daniel.e.mcgraw@usace.army.mil]
