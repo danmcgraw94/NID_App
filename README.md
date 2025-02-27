@@ -14,7 +14,7 @@ To run this app locally, you'll need R and RStudio installed. Follow these steps
 1.  Clone this repository to your local machine.
 2.  Open RStudio.
 3.  Set the working directory to the cloned repository folder.
-4.  Install the required R packages: `shiny`, `leaflet`, `maps`, `dplyr`, `ggplot2`, and `scales`.
+4.  Install the required R packages: `shiny`, `tidyverse`, and `scales`.
 5.  Run the app using `shiny::runApp("app.R")`.
 
 ## Deployment
