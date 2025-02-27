@@ -1,4 +1,4 @@
-# NID Dam Data Shiny App
+# NID Dam Drainage Area Shiny App
 
 This repository contains the code and data for a Shiny app that visualizes dam data from the National Inventory of Dams (NID).
 
@@ -23,4 +23,4 @@ This app cannot be directly hosted on GitHub Pages because it requires a server-
 * https://sweetchinmusic.shinyapps.io/nid_app/
 
 ## Contact
-Dan McGraw - [daniel.e.mcgraw@usace.army.mil]
+Dan McGraw - daniel.e.mcgraw@usace.army.mil
