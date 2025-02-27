@@ -20,7 +20,7 @@ To run this app locally, you'll need R and RStudio installed. Follow these steps
 ## Deployment
 
 This app cannot be directly hosted on GitHub Pages because it requires a server-side R process. Instead it can be accessed here:
-* [NID ECDF App](https://sweetchinmusic.shinyapps.io/nid_app/)
+* (https://sweetchinmusic.shinyapps.io/nid_app/)
 
 ## Contact
-[Dan McGraw] - [daniel.e.mcgraw@usace.army.mil]
+Dan McGraw - [daniel.e.mcgraw@usace.army.mil]
